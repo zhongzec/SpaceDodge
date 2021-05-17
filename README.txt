@@ -18,8 +18,8 @@ or
 
 python ./run.py -h 20 -w 80 -d 1
 
-Note: height and width of canvas are determined by the maximum allowed by current
-Terminal size
+Note: Difficulty can be 1,2 or 3; height and width of canvas are determined by the 
+maximum allowed by current Terminal size
 --------------------------------------------------------------------------------
 3. How to play
 
